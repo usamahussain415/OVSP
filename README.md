@@ -1,0 +1,1 @@
+Online Voting System (Ovsp) incorporated biometric authentication and ID number verification, ensuring security and accuracy. The system also featured real-time display of voting results and relied on biometric and ID authentication for voter verification
